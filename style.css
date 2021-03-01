@@ -1,0 +1,47 @@
+h1{
+    color: orange;
+    font-size: small;
+}
+.main{
+    background-color: grey;
+    bordrer: 2px solid grey;
+    width: 720px;
+    margin: 0 auto;
+}
+.top{
+    background-color: crimson;
+    height: 400px;
+}
+.features{
+    background-color:  cyan;
+    height: 150px;
+}
+.widget{
+    border-block-color: blue;
+    height: 300px;
+}
+.screenshot_top{
+    background-color: darkgoldenrod;
+    height: 300px;
+}
+.screenshot_middle{
+    background-color: green;
+    height: 300px;
+}
+.screenshot_bottom{
+    background-color: darkblue;
+    height: 300px;
+}
+    
+.reviews{
+    background-color: palevioletred;
+    height: 300px;
+}
+.download{
+    background-color: pink;
+    height: 300px;
+}
+.footer{
+    background-color: aqua;
+    height: 300px;
+}
